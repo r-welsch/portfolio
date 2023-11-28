@@ -1,4 +1,4 @@
-## [Project#1: Walgreens Financial Analysis] (https://github.com/r-welsch/wag_analysis)
+## [Project#1: Walgreens Financial Analysis](https://github.com/r-welsch/wag_analysis)
 
 This is an analysis of the Walgreen Co.'s financial performance over a 10 year span. The data was extracted from the FY14-FY23 Income Statements of SEC filings.
 
